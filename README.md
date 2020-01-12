@@ -10,3 +10,5 @@ Utility functions
 * delete/hide some text from pdf
 * Text to pdf
 * pdf to text
+* Create images
+* Create QR code
